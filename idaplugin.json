@@ -1,5 +1,5 @@
 {
   categories: ["disassembly-and-processor-modules"],
-  logo: "https://9gag.com/gag/a9y8GLo",
+  logoUrl: "https://9gag.com/gag/a9y8GLo",
   idaVersions: ["9.0"]
 }
