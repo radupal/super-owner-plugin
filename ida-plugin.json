@@ -3,7 +3,7 @@
   "plugin": {
     "name": "My First Plugin",
     "entryPoint": "my-first-plugin.py",
-    
+    "description" : "test description",
     "logoUrl": "https://hex-rays.com/hubfs/unnamed-3.png",
     "idaVersions": ["9.1"],
     "description" : "test description",
